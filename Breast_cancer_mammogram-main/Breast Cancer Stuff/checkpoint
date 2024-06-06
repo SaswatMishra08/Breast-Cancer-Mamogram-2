@@ -1,0 +1,2 @@
+model_checkpoint_path: "Cancer_Severity_2"
+all_model_checkpoint_paths: "Cancer_Severity_2"
